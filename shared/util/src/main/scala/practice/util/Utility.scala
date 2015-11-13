@@ -6,4 +6,6 @@ object Utility {
 
   def triple(x: Int): Int = x * 3
 
+  def ++(x: Int): Int = x + 1
+
 }
