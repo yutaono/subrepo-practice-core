@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:yutaono/subtree-practice-shared.git
+	branch = master
+	commit = be83fad0b9cd36db6192de0d67f68876351b0c77
+	parent = 7324b5bc9acc5aac98c5003bf2b70ee18755fb48
+	cmdver = 0.2.3
